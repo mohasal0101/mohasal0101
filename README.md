@@ -56,7 +56,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-lol
+![snake gif](https://github.com/mohasal0101/mohasal0101/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 <h2 align="center">
