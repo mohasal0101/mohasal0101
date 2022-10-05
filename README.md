@@ -41,7 +41,7 @@
 <a href="mailto: mohasal0101@gmail.com">
  <img src="https://img.shields.io/badge/-mohasal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/salah-hamawi-98209a1b8/">
+<a href="https://www.linkedin.com/in/salah-m-al-hamawi-98209a1b8/">
  <img src="https://img.shields.io/badge/-SalahMOhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
  <a href="https://www.facebook.com/salah.hamawi.7">
