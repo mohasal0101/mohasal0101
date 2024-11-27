@@ -44,9 +44,6 @@ Master's in Software Enigneer and developing myself continuously in developing w
 <a href="https://www.linkedin.com/in/salah-m-al-hamawi-98209a1b8/">
  <img src="https://img.shields.io/badge/-SalahMOhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
- <a href="https://www.facebook.com/salah.hamawi.7">
- <img src="https://img.shields.io/badge/-SalahAlHamawi-blue?style=flat-square&logo=facebook&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
 </p>
 </a>
 </p>
